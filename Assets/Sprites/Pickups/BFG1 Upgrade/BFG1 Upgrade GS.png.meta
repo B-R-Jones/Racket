@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: 1bfdc7f6308aa8c4fb2d0285e30b340a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6188627741000940205
+    second: BFG1 Upgrade GS00
+  - first:
+      213: -2808754538902024935
+    second: BFG1 Upgrade GS01
+  - first:
+      213: -5386816534176536471
+    second: BFG1 Upgrade GS02
+  - first:
+      213: -3621708389543498164
+    second: BFG1 Upgrade GS03
+  - first:
+      213: -2387343177707139494
+    second: BFG1 Upgrade GS04
+  - first:
+      213: 7804818324196900129
+    second: BFG1 Upgrade GS05
+  - first:
+      213: -597466870805334042
+    second: BFG1 Upgrade GS06
+  - first:
+      213: 4919649827109919750
+    second: BFG1 Upgrade GS07
+  - first:
+      213: 4390804383254715823
+    second: BFG1 Upgrade GS08
+  - first:
+      213: -8464362899765900157
+    second: BFG1 Upgrade GS09
+  - first:
+      213: 2979996908458502667
+    second: BFG1 Upgrade GS10
+  - first:
+      213: 2866670805311430458
+    second: BFG1 Upgrade GS11
+  - first:
+      213: -8900970031814087940
+    second: BFG1 Upgrade GS12
+  - first:
+      213: -5707017712417921178
+    second: BFG1 Upgrade GS13
+  - first:
+      213: 1558960881470539239
+    second: BFG1 Upgrade GS14
+  - first:
+      213: -7256736076238272853
+    second: BFG1 Upgrade GS15
+  - first:
+      213: 6340476140672569977
+    second: BFG1 Upgrade GS16
+  - first:
+      213: 4409313939482653046
+    second: BFG1 Upgrade GS17
+  - first:
+      213: 8412319696060752133
+    second: BFG1 Upgrade GS18
+  - first:
+      213: -3978388180731237299
+    second: BFG1 Upgrade GS19
+  - first:
+      213: -7510801915264764156
+    second: BFG1 Upgrade GS_0
+  - first:
+      213: 5515782533973350913
+    second: BFG1 Upgrade GS_1
+  - first:
+      213: 1407946077170337438
+    second: BFG1 Upgrade GS_2
+  - first:
+      213: 6991588601691277409
+    second: BFG1 Upgrade GS_3
+  - first:
+      213: -1281395305084903288
+    second: BFG1 Upgrade GS_4
+  - first:
+      213: 3056388693161894210
+    second: BFG1 Upgrade GS_5
+  - first:
+      213: 6306430370356408410
+    second: BFG1 Upgrade GS_6
+  - first:
+      213: 6525258147619305620
+    second: BFG1 Upgrade GS_7
+  - first:
+      213: -401800909533994220
+    second: BFG1 Upgrade GS_8
+  - first:
+      213: -1365811572178784304
+    second: BFG1 Upgrade GS_9
+  - first:
+      213: -2561994486964551818
+    second: BFG1 Upgrade GS_10
+  - first:
+      213: -3542542029632646257
+    second: BFG1 Upgrade GS_11
+  - first:
+      213: 6641727893728013073
+    second: BFG1 Upgrade GS_12
+  - first:
+      213: 3315732062664468182
+    second: BFG1 Upgrade GS_13
+  - first:
+      213: -2129440452360326496
+    second: BFG1 Upgrade GS_14
+  - first:
+      213: 1914917805859182560
+    second: BFG1 Upgrade GS_15
+  - first:
+      213: 1251739949299867262
+    second: BFG1 Upgrade GS_16
+  - first:
+      213: 3358157112995811431
+    second: BFG1 Upgrade GS_17
+  - first:
+      213: -2732649531293316098
+    second: BFG1 Upgrade GS_18
+  - first:
+      213: -4255082094211559475
+    second: BFG1 Upgrade GS_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407f156b37544c790800000000000000
+      internalID: -7510801915264764156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 109
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a19c3adfefb8c40800000000000000
+      internalID: 5515782533973350913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 109
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9684a06f770a8310800000000000000
+      internalID: 1407946077170337438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 109
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1688a7b4acc170160800000000000000
+      internalID: 6991588601691277409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880af8752c1973ee0800000000000000
+      internalID: -1281395305084903288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 91
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2416f6fa2597a6a20800000000000000
+      internalID: 3056388693161894210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 91
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5034d94201f48750800000000000000
+      internalID: 6306430370356408410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 91
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498729486bf5e8a50800000000000000
+      internalID: 6525258147619305620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4132ccc93348c6af0800000000000000
+      internalID: -401800909533994220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 73
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df6a2a8c99ab0de0800000000000000
+      internalID: -1365811572178784304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 73
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ff7ff8697f17cd0800000000000000
+      internalID: -2561994486964551818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 73
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83dad11bcc56dec0800000000000000
+      internalID: -3542542029632646257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b267874582c2c50800000000000000
+      internalID: 6641727893728013073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 55
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d62d755eb8d30e20800000000000000
+      internalID: 3315732062664468182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 55
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a237bad035b272e0800000000000000
+      internalID: -2129440452360326496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 55
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e79e484997239a10800000000000000
+      internalID: 1914917805859182560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e1f251ad21f5110800000000000000
+      internalID: 1251739949299867262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 37
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760111c1a129a9e20800000000000000
+      internalID: 3358157112995811431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 37
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbcf9fbabda31ad0800000000000000
+      internalID: -2732649531293316098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG1 Upgrade GS_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 37
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf05643169e2f4c0800000000000000
+      internalID: -4255082094211559475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

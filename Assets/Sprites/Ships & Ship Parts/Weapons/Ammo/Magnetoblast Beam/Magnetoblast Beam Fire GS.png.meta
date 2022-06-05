@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 9587ada55014ce240b4b62d3e0ee0067
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4520787508783449817
+    second: Magnetoblast Beam Fire GS00
+  - first:
+      213: -5982839890731500155
+    second: Magnetoblast Beam Fire GS01
+  - first:
+      213: 6262482683919718960
+    second: Magnetoblast Beam Fire GS02
+  - first:
+      213: 8529188481943177358
+    second: Magnetoblast Beam Fire GS03
+  - first:
+      213: 735616322493338227
+    second: Magnetoblast Beam Fire GS04
+  - first:
+      213: 8617915942117101789
+    second: Magnetoblast Beam Fire GS05
+  - first:
+      213: 3944456151906352833
+    second: Magnetoblast Beam Fire GS06
+  - first:
+      213: 3470431888135782511
+    second: Magnetoblast Beam Fire GS07
+  - first:
+      213: 8766337525718245749
+    second: Magnetoblast Beam Fire GS08
+  - first:
+      213: 6635910988810324922
+    second: Magnetoblast Beam Fire GS09
+  - first:
+      213: 8463493547211701551
+    second: Magnetoblast Beam Fire GS10
+  - first:
+      213: -3074291009519723416
+    second: Magnetoblast Beam Fire GS11
+  - first:
+      213: 7179376627133369596
+    second: Magnetoblast Beam Fire GS12
+  - first:
+      213: -5525247180677237423
+    second: Magnetoblast Beam Fire GS13
+  - first:
+      213: 6626259223787459062
+    second: Magnetoblast Beam Fire GS14
+  - first:
+      213: 3189179576980470243
+    second: Magnetoblast Beam Fire GS15
+  - first:
+      213: -7958097756077480526
+    second: Magnetoblast Beam Fire GS_0
+  - first:
+      213: -2097501583651969754
+    second: Magnetoblast Beam Fire GS_1
+  - first:
+      213: -5336771316814096066
+    second: Magnetoblast Beam Fire GS_2
+  - first:
+      213: -1792357580730494673
+    second: Magnetoblast Beam Fire GS_3
+  - first:
+      213: -6798104203634270198
+    second: Magnetoblast Beam Fire GS_4
+  - first:
+      213: -5364667140004432444
+    second: Magnetoblast Beam Fire GS_5
+  - first:
+      213: 1124255772332711295
+    second: Magnetoblast Beam Fire GS_6
+  - first:
+      213: -8033416193347794042
+    second: Magnetoblast Beam Fire GS_7
+  - first:
+      213: -4594572608484586872
+    second: Magnetoblast Beam Fire GS_8
+  - first:
+      213: -6841489626500058208
+    second: Magnetoblast Beam Fire GS_9
+  - first:
+      213: -6932222571423125925
+    second: Magnetoblast Beam Fire GS_10
+  - first:
+      213: 6298654372486060773
+    second: Magnetoblast Beam Fire GS_11
+  - first:
+      213: -5566214525300577581
+    second: Magnetoblast Beam Fire GS_12
+  - first:
+      213: -3718037381454870567
+    second: Magnetoblast Beam Fire GS_13
+  - first:
+      213: -2500870995216138903
+    second: Magnetoblast Beam Fire GS_14
+  - first:
+      213: 8300878831009022027
+    second: Magnetoblast Beam Fire GS_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magnetoblast Beam Fire GS_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b52b2131482f8190800000000000000
+      internalID: -7958097756077480526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Beam Fire GS_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625ea963c6d24e2e0800000000000000
+      internalID: -2097501583651969754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Beam Fire GS_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e395dc543caffe5b0800000000000000
+      internalID: -5336771316814096066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Beam Fire GS_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f219412d6444027e0800000000000000
+      internalID: -1792357580730494673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Beam Fire GS_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a002a44ae3848a1a0800000000000000
+      internalID: -6798104203634270198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Beam Fire GS_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c533ddc8afdc85b0800000000000000
+      internalID: -5364667140004432444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Beam Fire GS_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dd29a1ba82a9f00800000000000000
+      internalID: 1124255772332711295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Beam Fire GS_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b42a6f882938090800000000000000
+      internalID: -8033416193347794042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Beam Fire GS_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a49804e8ccc30c0800000000000000
+      internalID: -4594572608484586872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Beam Fire GS_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3b1f5be652e01a0800000000000000
+      internalID: -6841489626500058208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Beam Fire GS_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 11
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e216ebc4ccbcf90800000000000000
+      internalID: -6932222571423125925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Beam Fire GS_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 11
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea1ef2b7c0596750800000000000000
+      internalID: 6298654372486060773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Beam Fire GS_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dae6db5165d0c2b0800000000000000
+      internalID: -5566214525300577581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Beam Fire GS_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d742c853b0e66cc0800000000000000
+      internalID: -3718037381454870567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Beam Fire GS_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d701d741f1b4dd0800000000000000
+      internalID: -2500870995216138903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Beam Fire GS_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b404add1155a23370800000000000000
+      internalID: 8300878831009022027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 4fa2b9d7e90882146b53ed5c98163c5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6634831674528502644
+    second: Magnetoblast Upgrade GS00
+  - first:
+      213: 1295668714622695867
+    second: Magnetoblast Upgrade GS01
+  - first:
+      213: -1761454125884734601
+    second: Magnetoblast Upgrade GS02
+  - first:
+      213: -6683006630729273261
+    second: Magnetoblast Upgrade GS03
+  - first:
+      213: -293027588052048151
+    second: Magnetoblast Upgrade GS04
+  - first:
+      213: 6111118356477395143
+    second: Magnetoblast Upgrade GS05
+  - first:
+      213: 802854165146294507
+    second: Magnetoblast Upgrade GS06
+  - first:
+      213: -1394372427180228089
+    second: Magnetoblast Upgrade GS07
+  - first:
+      213: 974767838898231539
+    second: Magnetoblast Upgrade GS08
+  - first:
+      213: -1883163938169057600
+    second: Magnetoblast Upgrade GS09
+  - first:
+      213: -2080232170120433843
+    second: Magnetoblast Upgrade GS10
+  - first:
+      213: 6392607916250301775
+    second: Magnetoblast Upgrade GS11
+  - first:
+      213: 2608414843868929220
+    second: Magnetoblast Upgrade GS12
+  - first:
+      213: 88749079669206838
+    second: Magnetoblast Upgrade GS13
+  - first:
+      213: -6147938099503838689
+    second: Magnetoblast Upgrade GS14
+  - first:
+      213: 1205706229962703179
+    second: Magnetoblast Upgrade GS15
+  - first:
+      213: -7624480336369208823
+    second: Magnetoblast Upgrade GS16
+  - first:
+      213: -8773393312908530643
+    second: Magnetoblast Upgrade GS17
+  - first:
+      213: -4829869478707225260
+    second: Magnetoblast Upgrade GS18
+  - first:
+      213: 5272565151761648977
+    second: Magnetoblast Upgrade GS19
+  - first:
+      213: -6089121768928370987
+    second: Magnetoblast Upgrade GS20
+  - first:
+      213: -6113971001836397504
+    second: Magnetoblast Upgrade GS21
+  - first:
+      213: 6665238946525815331
+    second: Magnetoblast Upgrade GS22
+  - first:
+      213: -8520674827895567619
+    second: Magnetoblast Upgrade GS_0
+  - first:
+      213: -6216361774351083348
+    second: Magnetoblast Upgrade GS_1
+  - first:
+      213: -1195053746210613808
+    second: Magnetoblast Upgrade GS_2
+  - first:
+      213: -66561786063954305
+    second: Magnetoblast Upgrade GS_3
+  - first:
+      213: -6449203830104353713
+    second: Magnetoblast Upgrade GS_4
+  - first:
+      213: -8549829244298525967
+    second: Magnetoblast Upgrade GS_5
+  - first:
+      213: 2224884634429322018
+    second: Magnetoblast Upgrade GS_6
+  - first:
+      213: 3721527084540405695
+    second: Magnetoblast Upgrade GS_7
+  - first:
+      213: -7187964351760717587
+    second: Magnetoblast Upgrade GS_8
+  - first:
+      213: -3614799865420677069
+    second: Magnetoblast Upgrade GS_9
+  - first:
+      213: 6081223153491497620
+    second: Magnetoblast Upgrade GS_10
+  - first:
+      213: 2710317158550728413
+    second: Magnetoblast Upgrade GS_11
+  - first:
+      213: 1671893154071587655
+    second: Magnetoblast Upgrade GS_12
+  - first:
+      213: 4679425098713328099
+    second: Magnetoblast Upgrade GS_13
+  - first:
+      213: 3945365042585010053
+    second: Magnetoblast Upgrade GS_14
+  - first:
+      213: -8136792867617176140
+    second: Magnetoblast Upgrade GS_15
+  - first:
+      213: -5365005232155078550
+    second: Magnetoblast Upgrade GS_16
+  - first:
+      213: -8615135512828133244
+    second: Magnetoblast Upgrade GS_17
+  - first:
+      213: -1354810564137417560
+    second: Magnetoblast Upgrade GS_18
+  - first:
+      213: 1552823449574255455
+    second: Magnetoblast Upgrade GS_19
+  - first:
+      213: 2963371652653688561
+    second: Magnetoblast Upgrade GS_20
+  - first:
+      213: 2120487226593146710
+    second: Magnetoblast Upgrade GS_21
+  - first:
+      213: -8893793131453448663
+    second: Magnetoblast Upgrade GS_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa0ca4736b70c980800000000000000
+      internalID: -8520674827895567619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 109
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca89c74e6eb0bb9a0800000000000000
+      internalID: -6216361774351083348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 109
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5dd9113f05a6fe0800000000000000
+      internalID: -1195053746210613808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 109
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eda028866831ff0800000000000000
+      internalID: -66561786063954305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f449a8e2943df76a0800000000000000
+      internalID: -6449203830104353713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 91
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2075be997e85980800000000000000
+      internalID: -8549829244298525967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 91
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223726d79c060ee10800000000000000
+      internalID: 2224884634429322018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 91
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7a6087a2585a330800000000000000
+      internalID: 3721527084540405695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8a12b61883f3c90800000000000000
+      internalID: -7187964351760717587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 73
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3308877aca6a5ddc0800000000000000
+      internalID: -3614799865420677069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 73
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492ddb70d38d46450800000000000000
+      internalID: 6081223153491497620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 73
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeef08881bfc9520800000000000000
+      internalID: 2710317158550728413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b28de27f1c33710800000000000000
+      internalID: 1671893154071587655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 55
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9ead9a558a0f040800000000000000
+      internalID: 4679425098713328099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 55
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ff5805a90c0c630800000000000000
+      internalID: 3945365042585010053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 55
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b50fba5ffd441f80800000000000000
+      internalID: -8136792867617176140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60d8479a2cab85b0800000000000000
+      internalID: -5365005232155078550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 37
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480c60265e3e07880800000000000000
+      internalID: -8615135512828133244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 37
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a484a258feb23de0800000000000000
+      internalID: -1354810564137417560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 37
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b25ce33bcbc8510800000000000000
+      internalID: 1552823449574255455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6a2e541d2002920800000000000000
+      internalID: 2963371652653688561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 19
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65776d3d5eb7d6d10800000000000000
+      internalID: 2120487226593146710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetoblast Upgrade GS_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 19
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e78eda446e29480800000000000000
+      internalID: -8893793131453448663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
